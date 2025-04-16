@@ -33,4 +33,6 @@ The app supports multiple metro lines and dynamically calculates and displays th
 -Better Error Handling: Enhancing the user experience in cases where no route is found or location retrieval fails.
 
 
-# App link: https://drive.google.com/file/d/1y4UqNaxs1E_yC3rzFnsaamS6ex25my4S/view
+# App link:
+https://www.amazon.com/gp/product/B0F4NXL714
+https://drive.google.com/file/d/1y4UqNaxs1E_yC3rzFnsaamS6ex25my4S/view
