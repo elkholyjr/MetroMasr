@@ -1,7 +1,7 @@
-![Screen_Recording_٢٠٢٤٠٩١٧_٠٠٣٧٢٣_metroMasr](https://github.com/user-attachments/assets/90b3c898-2f61-47cb-9de2-204e2e360f40)
-
 # The Metro Navigation App is designed to provide users with accurate metro route directions, travel times, ticket prices, and the number of stations between two metro stations.
 The app supports multiple metro lines and dynamically calculates and displays the best available routes. It features a clean, user-friendly interface for metro navigation.
+
+![Screen_Recording_٢٠٢٤٠٩١٧_٠٠٣٧٢٣_metroMasr](https://github.com/user-attachments/assets/90b3c898-2f61-47cb-9de2-204e2e360f40)
 
 # Features:
 -Multi-line Metro Navigation: Supports navigation across various metro lines, including transitions between lines.
